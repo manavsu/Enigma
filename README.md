@@ -1,4 +1,4 @@
-The Enigma
+# Enigma
 
 ## Introduction
 
