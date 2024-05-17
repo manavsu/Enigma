@@ -1,4 +1,4 @@
-# Project 1: The Enigma
+The Enigma
 
 ## Introduction
 
